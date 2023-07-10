@@ -37,18 +37,14 @@ section {
 
 .banner_title h1 {
   color: #272727;
-  font-family: Lato;
   font-size: 80px;
-  font-style: normal;
   font-weight: 800;
-  line-height: normal;
   margin-bottom: 30px;
 }
 
 .banner_title p {
   width: 634px;
   color: rgba(39, 39, 39, 0.6);
-  font-family: Lato;
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -59,7 +55,6 @@ section {
   border-radius: 8px;
   background: #e55473;
   color: #fff;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 700;
   border: none;
@@ -81,7 +76,6 @@ section {
 .featured_title h3 {
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 40px;
   font-weight: 800;
   margin-bottom: 20px;
@@ -90,9 +84,7 @@ section {
 .featured_title p {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
-
   font-weight: 400;
   line-height: 30px;
 }
@@ -133,7 +125,6 @@ section {
   display: block;
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 24px;
   font-weight: 700;
   line-height: 35px;
@@ -148,7 +139,7 @@ section {
   align-items: center;
   gap: 30px;
   background: rgba(39, 39, 39, 0.05);
-  padding: 50px 120px;
+  padding: 97px 120px;
 }
 
 .customers_details {
@@ -166,9 +157,7 @@ section {
 .customers_details p {
   color: rgba(39, 39, 39, 0.8);
   text-align: center;
-  font-family: Lato;
   font-size: 24px;
-  font-style: normal;
   font-weight: 600;
   line-height: 35px;
 }
@@ -185,7 +174,6 @@ section {
 
 .hotDeal_title h1 {
   color: #272727;
-  font-family: Lato;
   font-size: 40px;
   margin-bottom: 25px;
 }
@@ -196,7 +184,6 @@ section {
 .hotDeal_title p {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -207,7 +194,6 @@ section {
   border-radius: 8px;
   background: #e55473;
   color: #fff;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 700;
   border: none;
@@ -219,7 +205,6 @@ section {
 .instagram_title h1 {
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 40px;
   font-weight: 800;
   margin-bottom: 25px;
@@ -228,7 +213,6 @@ section {
 .instagram_title p {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -258,7 +242,6 @@ section {
 .contact_main h1 {
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 40px;
   font-weight: 800;
   margin-bottom: 20px;
@@ -267,7 +250,6 @@ section {
 .contact_main p {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -296,7 +278,6 @@ section {
   border-radius: 8px;
   background: #e55473;
   color: #fff;
-  font-family: Lato;
   font-size: 18px;
   font-weight: 700;
   border: none;
