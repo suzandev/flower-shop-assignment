@@ -65,6 +65,7 @@ section {
 
 .banner_img img {
   width: 635px;
+  margin-top: 21px;
 }
 
 /* ======= Featured sections ======== */
@@ -110,6 +111,11 @@ section {
 
 .featured_image2 {
   justify-content: center;
+  background: rgba(5, 151, 160, 0.15);
+}
+.featured_image3 {
+  justify-content: center;
+  background: rgba(71, 125, 17, 0.15);
 }
 
 .featured_image1 img {
