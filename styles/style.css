@@ -88,6 +88,7 @@ section {
   font-family: Lato;
   font-size: 40px;
   font-weight: 800;
+  margin-bottom: 20px;
 }
 
 .featured_title p {
@@ -174,4 +175,47 @@ section {
   font-style: normal;
   font-weight: 600;
   line-height: 35px;
+}
+
+.hotDeal_main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.hotDeal_title {
+  text-align: center;
+}
+
+.hotDeal_title h1 {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+.hotDeal_title span {
+  color: #e55473;
+}
+
+.hotDeal_title p {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.hotDeal_title button {
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  padding: 20px 43px;
+  cursor: pointer;
 }
